@@ -10,6 +10,7 @@
   - [Wikipedia](https://es.wikipedia.org/wiki/JQuery)
   - [Stackoverflow](http://stackoverflow.com/tags/jquery/info)
   - [JQuery](http://jquery.com/)
+  - [Plugins](https://plugins.jquery.com/)
   - [CDN](https://code.jquery.com/)
   - [API](http://api.jquery.com/)
 
@@ -23,33 +24,27 @@
 
 ## Atributos:
   - [API](http://api.jquery.com/category/attributes/)
-  - [Ejercicios]()
+  - [Ejercicios](https://github.com/pinwert/jqueryUE/blob/master/ejer_atributos.md)
 
 
 **Segunda sesión**
 
-## Ajax:
-  - [API](http://api.jquery.com/category/ajax/)
-  - [Ejercicios]()
-
 ## Modificar DOM:
   - [API](http://api.jquery.com/category/manipulation/)
-  - [Ejercicios]()
+
+## Ajax:
+  - [API](http://api.jquery.com/category/ajax/)
 
 
 **Tercera sesión**
 
 ## Control de carga:
   - [API](http://api.jquery.com/category/events/document-loading/)
-  - [Ejercicios]()
 
 ## Animaciones:
   - [API](http://api.jquery.com/category/effects/)
-  - [Ejercicios]()
 
 ## Ejemplo completo:
-  - [Ejercicios]()
 
 ## Enlaces de interes:
   - [Awesome](https://github.com/peterkokot/awesome-jquery)
-  - []()
