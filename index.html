@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title>jQuery Hello World</title>
+      <script
+        src="https://code.jquery.com/jquery-1.12.3.min.js"
+          integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="
+          crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div id="msg"></div>
+    <div id="lista"></div>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        /* Funcion1
+          $.get('./example.json',function(res){
+            console.log(res);
+          });
+        */
+        /* Funcion2
+          $.getJSON('./example.json',function(res){
+            console.log(res);
+          });
+        */
+        /* Funcion3
+          $.getJSON( "./example.json", function() {
+            console.log( "success" );
+          })
+            .done(function() {
+              console.log( "second success" );
+            })
+            .fail(function() {
+              console.log( "error" );
+            })
+            .always(function() {
+              console.log( "complete" );
+            });
+        */
+        /* Funcion4
+          $('#lista').load('./example.html');
+        */
+        /* Funcion5
+          $('#lista').load('./example.html .segunda');
+        */
+      });
+    </script>
+  </body>
+</html>
