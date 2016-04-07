@@ -5,6 +5,7 @@
 
 ## DOM:
   - [Wikipedia](https://es.wikipedia.org/wiki/Document_Object_Model)
+  - [Una introducción](http://html.conclase.net/w3c/dom1-es/introduction.html)
 
 ## JQuery:
   - [Wikipedia](https://es.wikipedia.org/wiki/JQuery)
