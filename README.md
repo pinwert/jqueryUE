@@ -8,16 +8,18 @@
 
 ## JQuery:
   - [Wikipedia](https://es.wikipedia.org/wiki/JQuery)
+  - [Stackoverflow](http://stackoverflow.com/tags/jquery/info)
   - [JQuery](http://jquery.com/)
+  - [CDN](https://code.jquery.com/)
   - [API](http://api.jquery.com/)
 
 ## Selectores:
   - [API](http://api.jquery.com/category/selectors/)
-  - [Ejercicios]()
+  - [Ejercicios](https://github.com/pinwert/jqueryUE/blob/master/ejer_selectores.md)
 
 ## Eventos:
   - [API](http://api.jquery.com/category/events/)
-  - [Ejercicios]()
+  - [Ejercicios](https://github.com/pinwert/jqueryUE/blob/master/ejer_eventos.md)
 
 ## Atributos:
   - [API](http://api.jquery.com/category/attributes/)

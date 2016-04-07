@@ -24,6 +24,7 @@
 - Seleccionamos el primer nodo 'h2' nº10 que este bajo un nodo con clase 'item' y que no tenga clase 'video'
 
 **Empecemos a relacionar cosas**
+
 - Contamos el numero de nodos 'li' en el DOM
 - Contamos ahora el numero de nodos 'li' que no tienen la clase 'item'
 - Y por ultimo buscamos el nodo del DOM en la posición obtenida en el ejercicio previo.
