@@ -3,9 +3,13 @@
 
 **Primera sesión**
 
+## ¿Nos presentamos?
+  - email: jesuspindadozarate@gmail.com
+
 ## DOM:
   - [Wikipedia](https://es.wikipedia.org/wiki/Document_Object_Model)
-  - [Una introducción](http://html.conclase.net/w3c/dom1-es/introduction.html)
+  - [Mozilla](https://developer.mozilla.org/es/docs/DOM)
+  - [W3C](https://www.w3.org/DOM/)
 
 ## JQuery:
   - [Wikipedia](https://es.wikipedia.org/wiki/JQuery)
