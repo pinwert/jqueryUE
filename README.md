@@ -36,9 +36,11 @@
 
 ## Modificar DOM:
   - [API](http://api.jquery.com/category/manipulation/)
+  - [Ejercicios](https://github.com/pinwert/jqueryUE/blob/master/ejer_dom.md)
 
 ## Ajax:
   - [API](http://api.jquery.com/category/ajax/)
+  - [Ejercicios](https://github.com/pinwert/jqueryUE/blob/master/ejer_ajax.md)
 
 
 **Tercera sesión**
