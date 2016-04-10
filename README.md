@@ -57,5 +57,5 @@
   - [Awesome](https://github.com/peterkokot/awesome-jquery)
 
 ## Peticiones:
-  - Dejo el codigo de los ejemplos del dia 9 en [example_cartero.js](./example_cartero.js) y [soluccion_ajax.html](./soluccion_ajax.html)
+  - Dejo el codigo de los ejemplos del dia 9 en [example_cartero.js](./example_cartero.js) y [solucion_ajax.html](./solucion_ajax.html)
   - Se pidio tambien un ejemplo de libreria para realizar animaciones ante el evento scroll, por ejemplo esta [ScrollMe](http://scrollme.nckprsn.com/) os dejo tambien una explicación de como gestionarlo con jquery y css3 [http://www.sitepoint.com/scroll-based-animations-jquery-css3/](http://www.sitepoint.com/scroll-based-animations-jquery-css3/)
