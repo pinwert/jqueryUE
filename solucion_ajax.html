@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>jQuery Hello World</title>
+      <script
+        src="https://code.jquery.com/jquery-1.12.3.min.js"
+        integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="
+        crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div id="lista"></div>
+    <script type="text/javascript">
+      $(document).ready(function(){
+          var $buton = $('<button class="add"></button>').appendTo('body');
+          var $lista = $('<ul></ul>').appendTo('#lista');
+          $button.on('click'.function(){
+            $.getJSON( "https://raw.githubusercontent.com/pinwert/jqueryUE/master/example.json")
+            .done(function(datos) {
+              console.log( "success" );
+             $(datos.items).each(function(index,dato){
+               $lista.append('<li>'+dato.siglas+'</li>');
+              });
+            })
+            .fail(function() {
+              console.log( "error" );
+            })
+            .always(function() {
+              console.log( "complete" );
+            });
+          });
+      });
+    </script>
+  </body>
+</html>
