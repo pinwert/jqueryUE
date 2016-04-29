@@ -52,6 +52,7 @@
   - [API](http://api.jquery.com/category/effects/)
 
 ## Ejemplo completo:
+  - [Ejercicios](https://github.com/pinwert/jqueryUE/blob/master/ejer_completo.md)
 
 ## Enlaces de interes:
   - [Awesome](https://github.com/peterkokot/awesome-jquery)
